@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+	<meta charset='utf-8'/>
+	<title>Learning System</title>
+	
+<!-- CSS -------------------->
+	<style>
+		#timeDisplays{
+			float: right;
+		}
+		#theGuts{
+			float: left;
+		}
+	</style>
+
+<!--------------- Create Globally Held Data -------------------------->
+
+<script> // systemLog is a global array that holds data on what happens and when
+	systemLog = [];
+	timeStarted = new Date();
+	systemLog.push(["Open Learning System",timeStarted]);
+	
+	// for estimating average time per card 
+	var cardsGuessed = 0;
+	
+	// Global array that will be used to display cards
+	var displayList = [false];
+
+	// To record mode of card creation step
+	// 'Create' = user clicked on "Create Cards".  'Revise' = user clicked on "Fix Card" while running flashcards
+	var createCardMode = 'Create';
+
+	// Which card is durrently being displayed
+	var currentCard = -1;
+	
+</script>
+
+
+
+<!-- Flashcard data is stored in an array, called 'cards' 
+	cards is a list of objects 
+	Objects' keys: 
+	'question'
+	'answer'
+	'resource' is for any links etc. for relearning 
+	'lastCorrectDate' is the last time the question was answered correctly	
+	'rightInARow' is how many times there have been 3 right in a row  -- a count of in-a-row of in-a-rows
+	'rightToday' is how many times most recently, there have been all correct.
+		When rightToday = 3, rightInARow updated and card no longer shown today
+-->
+<script type="text/javascript" src="learningSystemData.js"></script>
+<script type="text/javascript" src="learningTidyCards.js"></script>
+
+
+<script>
+
+function minutesElapsed(){  //since starting to work on the flashcards.  Needs to exist before import the rest of the modules.
+	timeNow = new Date();
+	var hoursSoFar = timeNow.getHours() - timeStarted.getHours();
+	return timeNow.getMinutes() - timeStarted.getMinutes() + hoursSoFar*60;
+}
+
+</script>
+
+	
+<!--------------- Modules ------------------------------------------>
+
+<!-- Data entry interface for creating flashcards -->	
+<script type="text/javascript" src="createNewFlashcards.js"></script>
+
+<!-- Trains & Tests memory by showing flashcards.  Quick&Dirty spaced learning -->	
+<script type="text/javascript" src="runFlashcards.js"></script>
+
+<!-- On exit flashcards and item-learner data stored -->	
+<script type="text/javascript" src="learningSaveExit.js"></script>
+
+</head>
+
+<body>
+
+<span id="theGuts">
+
+<!-- control bar -->
+	<input type="button" id="createFlashcardsButton" value="Create Flashcards" onclick="createFlashcards()"/>
+	<input type="button" id="runFlashcardsButton" value="Run Flashcards" onclick="runFlashcard()"/>
+	<input type="button" value="Save" onclick="saveData()"/>
+
+	
+<!-- Module window -->
+	<div id="moduleWindow"></div>
+	
+</span>
+
+
+<span id="timeDisplays">
+	Started
+	<div id="startTime"></div>
+	So far
+	<div id="elapsedTime"></div>
+	Estimated remaining
+	<div id="estimatedRemainingTime"></div>
+	Estimated finish
+	<div id="estimatedStopTime"></div>
+</span>
+
+
+<script>
+
+// Initial time info 
+
+function prettyPrintTime(timeToShow){
+
+	var hours = timeToShow.getHours();
+	var ampm = 'am'
+	if (hours > 12) {
+		hours -= 12;
+		ampm = 'pm';
+	} else if (hours === 0) {
+		hours = 12;
+	}
+
+	// Left pad with zeroes as needed
+	var minToGo = "0" + timeToShow.getMinutes();
+	minToGo = minToGo.slice(minToGo.length - 2,3);
+	
+	return "<strong>"+hours+":" + minToGo + ampm+"</strong><p>";
+}
+document.getElementById("startTime").innerHTML = prettyPrintTime(timeStarted);
+
+
+function showTimeSoFar(){
+	var minutesSoFar = minutesElapsed();
+	document.getElementById("elapsedTime").innerHTML = "<strong>" + minutesElapsed() + " minutes</strong><p>";
+}
+showTimeSoFar();
+
+
+function estimateRemainingTime(){
+	// very quick and dirty estimate
+	var cardsToGo = countTrue(displayList);
+	var minutesSoFar = minutesElapsed();
+	var minutesToGo = cardsToGo*((0.01 + minutesSoFar)/cardsGuessed);
+	document.getElementById("estimatedRemainingTime").innerHTML = "<strong>"+Math.round(minutesToGo)+" minutes</strong><p>";
+	var timeEnd = new Date();
+	timeEnd.setMinutes( timeEnd.getMinutes() + minutesToGo );
+	document.getElementById("estimatedStopTime").innerHTML = "<strong>"+prettyPrintTime(timeEnd)+"</strong><p>";
+}
+estimateRemainingTime();
+		
+</script>
+</body>
+</html>
