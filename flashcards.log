@@ -1,0 +1,2397 @@
+[
+  [
+    "Open flashcards",
+    "2018-10-03T00:09:44.946Z"
+  ],
+  [
+    "Show All Done Flashcards",
+    "2018-10-03T00:09:47.367Z"
+  ],
+  [
+    "Save data",
+    "2018-10-03T00:10:03.276Z"
+  ]
+][
+  [
+    "Open flashcards",
+    "2018-10-03T00:11:10.306Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "ITIL Service Strategy covers",
+    "2018-10-03T00:11:12.408Z"
+  ],
+  [
+    "Show Answer",
+    "investment strategy -- e.g., business casing",
+    "2018-10-03T00:11:25.173Z"
+  ],
+  [
+    "Got it",
+    "investment strategy -- e.g., business casing",
+    "2018-10-03T00:11:26.745Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "SCAMPI phases:",
+    "2018-10-03T00:11:26.746Z"
+  ],
+  [
+    "Show Answer",
+    "Initiating, Diagnosing, Establishing, Acting, & Learning <br>  <br> IDEAL",
+    "2018-10-03T00:11:36.194Z"
+  ],
+  [
+    "Missed it",
+    "Initiating, Diagnosing, Establishing, Acting, & Learning <br>  <br> IDEAL",
+    "2018-10-03T00:11:39.608Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "Linear Process Flow<br> <br> Which 5 activities?",
+    "2018-10-03T00:11:39.609Z"
+  ],
+  [
+    "Show Answer",
+    "Execute 5 framework activities in sequence <br> Communication - Planning - Modeling - Construction - Deployment",
+    "2018-10-03T00:11:49.279Z"
+  ],
+  [
+    "Got it",
+    "Execute 5 framework activities in sequence <br> Communication - Planning - Modeling - Construction - Deployment",
+    "2018-10-03T00:11:51.886Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "CSS: Centering text",
+    "2018-10-03T00:11:51.887Z"
+  ],
+  [
+    "Show Answer",
+    "text-align:center;",
+    "2018-10-03T00:11:55.118Z"
+  ],
+  [
+    "Missed it",
+    "text-align:center;",
+    "2018-10-03T00:11:57.927Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "&sum; i^3 from i=1 to i=n = ",
+    "2018-10-03T00:11:57.928Z"
+  ],
+  [
+    "Show Answer",
+    "[n^2]*[(n+1)^2]/4",
+    "2018-10-03T00:12:12.929Z"
+  ],
+  [
+    "Got it",
+    "[n^2]*[(n+1)^2]/4",
+    "2018-10-03T00:12:14.745Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "CSMA/CD stands for",
+    "2018-10-03T00:12:14.745Z"
+  ],
+  [
+    "Show Answer",
+    "Carrier sense multiple access with collision detection",
+    "2018-10-03T00:12:17.707Z"
+  ],
+  [
+    "Missed it",
+    "Carrier sense multiple access with collision detection",
+    "2018-10-03T00:12:25.722Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "<img src=\"images\\natOne.jpg\">",
+    "2018-10-03T00:12:25.726Z"
+  ],
+  [
+    "Show Answer",
+    "The natural numbers (integer, whole numbers) from 1 up.  Does not include zero or negative numbers.",
+    "2018-10-03T00:12:27.795Z"
+  ],
+  [
+    "Got it",
+    "The natural numbers (integer, whole numbers) from 1 up.  Does not include zero or negative numbers.",
+    "2018-10-03T00:12:28.757Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "Three problems with waterfall model: ",
+    "2018-10-03T00:12:28.758Z"
+  ],
+  [
+    "Show Answer",
+    "1) Projects do not flow sequentially <br> 2) Hard to fully realize customer requirements <br> 3) Long hidden delay before delivery is hard on customer patience",
+    "2018-10-03T00:12:37.234Z"
+  ],
+  [
+    "Got it",
+    "1) Projects do not flow sequentially <br> 2) Hard to fully realize customer requirements <br> 3) Long hidden delay before delivery is hard on customer patience",
+    "2018-10-03T00:12:40.827Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "O(n)",
+    "2018-10-03T00:12:40.827Z"
+  ],
+  [
+    "Show Answer",
+    "Linear Complexity: time/space is linearly related to size of data set",
+    "2018-10-03T00:12:42.533Z"
+  ],
+  [
+    "Got it",
+    "Linear Complexity: time/space is linearly related to size of data set",
+    "2018-10-03T00:12:43.345Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "Big O",
+    "2018-10-03T00:12:43.347Z"
+  ],
+  [
+    "Show Answer",
+    "The worst-case execution time or space used",
+    "2018-10-03T00:12:45.180Z"
+  ],
+  [
+    "Got it",
+    "The worst-case execution time or space used",
+    "2018-10-03T00:12:45.775Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "<img src=\"images\\real.jpg\">",
+    "2018-10-03T00:12:45.777Z"
+  ],
+  [
+    "Show Answer",
+    "The set of real numbers: all numbers that are not imaginary.  Includes PI, -3.4445, - infinity, & 99.99.",
+    "2018-10-03T00:12:51.384Z"
+  ],
+  [
+    "Got it",
+    "The set of real numbers: all numbers that are not imaginary.  Includes PI, -3.4445, - infinity, & 99.99.",
+    "2018-10-03T00:12:52.701Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "O(n^2)",
+    "2018-10-03T00:12:52.703Z"
+  ],
+  [
+    "Show Answer",
+    "Quadratic Complexity",
+    "2018-10-03T00:12:55.336Z"
+  ],
+  [
+    "Got it",
+    "Quadratic Complexity",
+    "2018-10-03T00:12:56.237Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "Confidentiality is ...",
+    "2018-10-03T00:12:56.237Z"
+  ],
+  [
+    "Show Answer",
+    "Keeping something private or minimally known",
+    "2018-10-03T00:13:00.522Z"
+  ],
+  [
+    "Got it",
+    "Keeping something private or minimally known",
+    "2018-10-03T00:13:01.491Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "Five Software Engineering Framework Activities:",
+    "2018-10-03T00:13:01.491Z"
+  ],
+  [
+    "Show Answer",
+    "Communication<br> <br> Planning<br> <br> Modeling<br> <br> Construction<br> <br> Deployment ",
+    "2018-10-03T00:13:04.122Z"
+  ],
+  [
+    "Got it",
+    "Communication<br> <br> Planning<br> <br> Modeling<br> <br> Construction<br> <br> Deployment ",
+    "2018-10-03T00:13:05.147Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "Insertion sort",
+    "2018-10-03T00:13:05.147Z"
+  ],
+  [
+    "Show Answer",
+    "In an array: <br> 83451 <br> 8|3451 <br> 38|451 <br> 348|51 <br> 3458|1 <br> 13458 <br> ",
+    "2018-10-03T00:13:07.746Z"
+  ],
+  [
+    "Got it",
+    "In an array: <br> 83451 <br> 8|3451 <br> 38|451 <br> 348|51 <br> 3458|1 <br> 13458 <br> ",
+    "2018-10-03T00:13:19.389Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "Class D IP Addresses",
+    "2018-10-03T00:13:19.389Z"
+  ],
+  [
+    "Show Answer",
+    "224.0.0.0 to 239.255.255.255 <br> Multicast (many-to-many or one-to-many) systems",
+    "2018-10-03T00:13:21.607Z"
+  ],
+  [
+    "Got it",
+    "224.0.0.0 to 239.255.255.255 <br> Multicast (many-to-many or one-to-many) systems",
+    "2018-10-03T00:13:22.243Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "JS: Case when for javascript: <br> test variable= testVar <br> if 1, then alert \"1\" <br> if 2, then alert \"2\" <br> else alert \">2\"",
+    "2018-10-03T00:13:22.244Z"
+  ],
+  [
+    "Show Answer",
+    "switch(testVar){ <br>   case 1: <br>     alert(\"1\"); <br>     break; <br>   case 2: <br>     alert(\"2\"); <br>     break; <br>   case default: <br>     alert(\">2\"); <br> }; <br> ",
+    "2018-10-03T00:13:25.713Z"
+  ],
+  [
+    "Got it",
+    "switch(testVar){ <br>   case 1: <br>     alert(\"1\"); <br>     break; <br>   case 2: <br>     alert(\"2\"); <br>     break; <br>   case default: <br>     alert(\">2\"); <br> }; <br> ",
+    "2018-10-03T00:13:26.274Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "HTML: First thing in an HTML file -- to let anything reading the file know what it is",
+    "2018-10-03T00:13:26.274Z"
+  ],
+  [
+    "Show Answer",
+    "&lt;!DOCTYPE html>",
+    "2018-10-03T00:13:29.458Z"
+  ],
+  [
+    "Got it",
+    "&lt;!DOCTYPE html>",
+    "2018-10-03T00:13:30.122Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "Boehm's six invariants of the spiral software development model",
+    "2018-10-03T00:13:30.123Z"
+  ],
+  [
+    "Show Answer",
+    "1) Define artifacts (deliverables) concurrently <br> 2) 4 activities: identify stakeholder wins; identify & evaluate alternative strategies; identify & plan for risks; obtain approvals <br> wins, alternatives,risks,approvals: WARS <br> 3) Set effort to minimize risk <br> 4) Set detail level to minimize risk <br> 5) Anchor point milestones: 1) Life Cycle Objectives, 2) Life Cycle Architecture, 3) Initial Operational Capability",
+    "2018-10-03T00:13:31.957Z"
+  ],
+  [
+    "Got it",
+    "1) Define artifacts (deliverables) concurrently <br> 2) 4 activities: identify stakeholder wins; identify & evaluate alternative strategies; identify & plan for risks; obtain approvals <br> wins, alternatives,risks,approvals: WARS <br> 3) Set effort to minimize risk <br> 4) Set detail level to minimize risk <br> 5) Anchor point milestones: 1) Life Cycle Objectives, 2) Life Cycle Architecture, 3) Initial Operational Capability",
+    "2018-10-03T00:13:32.478Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "802.11n Hz",
+    "2018-10-03T00:13:32.478Z"
+  ],
+  [
+    "Show Answer",
+    "2.4 GHz",
+    "2018-10-03T00:13:35.224Z"
+  ],
+  [
+    "Got it",
+    "2.4 GHz",
+    "2018-10-03T00:13:35.791Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "Class C IP addresses",
+    "2018-10-03T00:13:35.791Z"
+  ],
+  [
+    "Show Answer",
+    "192.0.0.0 to 223.255.255.255 <br> Used on small networks (192 looks familiar, because it's used in our home)",
+    "2018-10-03T00:13:36.777Z"
+  ],
+  [
+    "Got it",
+    "192.0.0.0 to 223.255.255.255 <br> Used on small networks (192 looks familiar, because it's used in our home)",
+    "2018-10-03T00:13:37.264Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "Sum of 1+2+3+4+...+n =",
+    "2018-10-03T00:13:37.265Z"
+  ],
+  [
+    "Show Answer",
+    "(n+1)n/2",
+    "2018-10-03T00:13:39.091Z"
+  ],
+  [
+    "Got it",
+    "(n+1)n/2",
+    "2018-10-03T00:13:39.565Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "Type of attack that makes data unusable or unavailable",
+    "2018-10-03T00:13:39.565Z"
+  ],
+  [
+    "Show Answer",
+    "Interruption attack",
+    "2018-10-03T00:13:42.388Z"
+  ],
+  [
+    "Got it",
+    "Interruption attack",
+    "2018-10-03T00:13:42.976Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "CSS: space within element around text",
+    "2018-10-03T00:13:42.976Z"
+  ],
+  [
+    "Show Answer",
+    "padding",
+    "2018-10-03T00:13:44.895Z"
+  ],
+  [
+    "Got it",
+    "padding",
+    "2018-10-03T00:13:45.387Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "Five core ITIL publications",
+    "2018-10-03T00:13:45.388Z"
+  ],
+  [
+    "Show Answer",
+    "1. Service Strategy <br> 2. Service Design <br> 3. Service Transition <br> 4. Service Operation <br> 5. Continual Service Improvement",
+    "2018-10-03T00:16:03.975Z"
+  ],
+  [
+    "Got it",
+    "1. Service Strategy <br> 2. Service Design <br> 3. Service Transition <br> 4. Service Operation <br> 5. Continual Service Improvement",
+    "2018-10-03T00:16:06.437Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "Logic notation: &and; means ... because it is like ...",
+    "2018-10-03T00:16:06.438Z"
+  ],
+  [
+    "Show Answer",
+    "AND is like &cap; ",
+    "2018-10-03T00:16:12.310Z"
+  ],
+  [
+    "Got it",
+    "AND is like &cap; ",
+    "2018-10-03T00:16:13.282Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "5 aspects of Scrum",
+    "2018-10-03T00:16:13.282Z"
+  ],
+  [
+    "Show Answer",
+    "1. Small Teams <br> 2. Process oriented <br> 3. Frequent increments <br> 4. Testing & documentation during build <br> 5. Can declare product done at any time",
+    "2018-10-03T00:16:23.426Z"
+  ],
+  [
+    "Got it",
+    "1. Small Teams <br> 2. Process oriented <br> 3. Frequent increments <br> 4. Testing & documentation during build <br> 5. Can declare product done at any time",
+    "2018-10-03T00:16:26.186Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "HTML entity: &ne;",
+    "2018-10-03T00:16:26.187Z"
+  ],
+  [
+    "Show Answer",
+    "&amp;ne;",
+    "2018-10-03T00:16:28.536Z"
+  ],
+  [
+    "Got it",
+    "&amp;ne;",
+    "2018-10-03T00:16:29.430Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "PDCA is ... & created by ...",
+    "2018-10-03T00:16:29.430Z"
+  ],
+  [
+    "Show Answer",
+    "Plan-Do-Check-Act created by Deming",
+    "2018-10-03T00:16:33.535Z"
+  ],
+  [
+    "Got it",
+    "Plan-Do-Check-Act created by Deming",
+    "2018-10-03T00:16:34.105Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "Complexity of insertion sort",
+    "2018-10-03T00:16:34.105Z"
+  ],
+  [
+    "Show Answer",
+    "O(n^2)",
+    "2018-10-03T00:16:37.594Z"
+  ],
+  [
+    "Got it",
+    "O(n^2)",
+    "2018-10-03T00:16:38.222Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "DSL stands for",
+    "2018-10-03T00:16:38.222Z"
+  ],
+  [
+    "Show Answer",
+    "digital subscriber line",
+    "2018-10-03T00:16:39.848Z"
+  ],
+  [
+    "Got it",
+    "digital subscriber line",
+    "2018-10-03T00:16:40.444Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "JS: Is \"Z\" < \"a\"?",
+    "2018-10-03T00:16:40.444Z"
+  ],
+  [
+    "Show Answer",
+    "yes",
+    "2018-10-03T00:16:41.858Z"
+  ],
+  [
+    "Got it",
+    "yes",
+    "2018-10-03T00:16:42.377Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "Software Engineering Umbrella Activities",
+    "2018-10-03T00:16:42.377Z"
+  ],
+  [
+    "Show Answer",
+    "Project Tracking & Control<br>Risk Management<br>Quality Assurance<br> Configuration Management<br> Technology Review <br>  <br> ",
+    "2018-10-03T00:16:45.148Z"
+  ],
+  [
+    "Got it",
+    "Project Tracking & Control<br>Risk Management<br>Quality Assurance<br> Configuration Management<br> Technology Review <br>  <br> ",
+    "2018-10-03T00:16:45.716Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "Class A IP Address range",
+    "2018-10-03T00:16:45.717Z"
+  ],
+  [
+    "Show Answer",
+    "1.0.0.0 to 126.255.255.255 <br> Used by governments & very large corporations",
+    "2018-10-03T00:16:51.836Z"
+  ],
+  [
+    "Got it",
+    "1.0.0.0 to 126.255.255.255 <br> Used by governments & very large corporations",
+    "2018-10-03T00:16:53.910Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "Dynamic Systems Development Method (DSDM) Activities",
+    "2018-10-03T00:16:53.910Z"
+  ],
+  [
+    "Show Answer",
+    "1) Feasibility Study (constraints & objectives) <br> 2) Business Study (requirements) <br> 3) Iterative Cycles (prototype to final)",
+    "2018-10-03T00:16:57.699Z"
+  ],
+  [
+    "Got it",
+    "1) Feasibility Study (constraints & objectives) <br> 2) Business Study (requirements) <br> 3) Iterative Cycles (prototype to final)",
+    "2018-10-03T00:16:58.731Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "Waterfall model is ... and has 5 ...",
+    "2018-10-03T00:16:58.732Z"
+  ],
+  [
+    "Show Answer",
+    "Sequential:<br> <br> Requirements<br> <br> Plan<br> <br> Model<br> <br> Construct<br> <br> Deploy<br><br>",
+    "2018-10-03T00:17:01.326Z"
+  ],
+  [
+    "Got it",
+    "Sequential:<br> <br> Requirements<br> <br> Plan<br> <br> Model<br> <br> Construct<br> <br> Deploy<br><br>",
+    "2018-10-03T00:17:04.082Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "<img src=\"images\\mathBecause.jpg\">",
+    "2018-10-03T00:17:04.085Z"
+  ],
+  [
+    "Show Answer",
+    "Logic symbol for \"because\"",
+    "2018-10-03T00:17:05.364Z"
+  ],
+  [
+    "Got it",
+    "Logic symbol for \"because\"",
+    "2018-10-03T00:17:05.928Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "ITIL Service Design covers 5 areas:",
+    "2018-10-03T00:17:05.928Z"
+  ],
+  [
+    "Show Answer",
+    "design coordination <br> what services are provided <br> availability <br> capacity <br> security <br> ",
+    "2018-10-03T00:17:13.212Z"
+  ],
+  [
+    "Got it",
+    "design coordination <br> what services are provided <br> availability <br> capacity <br> security <br> ",
+    "2018-10-03T00:17:15.544Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "C: Compile a.c in cmd and run it",
+    "2018-10-03T00:17:15.545Z"
+  ],
+  [
+    "Show Answer",
+    "gcc a.c -o a.exe <br> a.exe",
+    "2018-10-03T00:17:17.663Z"
+  ],
+  [
+    "Got it",
+    "gcc a.c -o a.exe <br> a.exe",
+    "2018-10-03T00:17:18.248Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "Java: get the number of characters in String a",
+    "2018-10-03T00:17:18.249Z"
+  ],
+  [
+    "Show Answer",
+    "a.length()",
+    "2018-10-03T00:17:21.774Z"
+  ],
+  [
+    "Got it",
+    "a.length()",
+    "2018-10-03T00:17:22.230Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "JS: Inline set a div with id \"mydiv\" so that it calls mouseIsOut when the mouse rolls out of the div",
+    "2018-10-03T00:17:22.230Z"
+  ],
+  [
+    "Show Answer",
+    "&lt;div id=\"mydiv\" onmouseout=\"mouseIsOut()\">",
+    "2018-10-03T00:17:26.249Z"
+  ],
+  [
+    "Got it",
+    "&lt;div id=\"mydiv\" onmouseout=\"mouseIsOut()\">",
+    "2018-10-03T00:17:26.724Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "Agile Unified Process (AUP) steps:",
+    "2018-10-03T00:17:26.724Z"
+  ],
+  [
+    "Show Answer",
+    "Modeling (create UML?) <br> Implementation (code) <br> Testing <br> Deployment <br>  <br> MITeD!",
+    "2018-10-03T00:17:28.448Z"
+  ],
+  [
+    "Got it",
+    "Modeling (create UML?) <br> Implementation (code) <br> Testing <br> Deployment <br>  <br> MITeD!",
+    "2018-10-03T00:17:29.029Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "What security phase begins when an attack is noticed?",
+    "2018-10-03T00:17:29.029Z"
+  ],
+  [
+    "Show Answer",
+    "Detection & analysis phase",
+    "2018-10-03T00:17:32.902Z"
+  ],
+  [
+    "Got it",
+    "Detection & analysis phase",
+    "2018-10-03T00:17:33.885Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "CSS: Remove gaps between cells in a table",
+    "2018-10-03T00:17:33.886Z"
+  ],
+  [
+    "Show Answer",
+    "td{border-collapse:collapse;}",
+    "2018-10-03T00:17:41.145Z"
+  ],
+  [
+    "Got it",
+    "td{border-collapse:collapse;}",
+    "2018-10-03T00:17:42.581Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "802.11n speed",
+    "2018-10-03T00:17:42.581Z"
+  ],
+  [
+    "Show Answer",
+    "200 Mbps",
+    "2018-10-03T00:17:50.952Z"
+  ],
+  [
+    "Got it",
+    "200 Mbps",
+    "2018-10-03T00:17:52.458Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "Class B IP Addresses",
+    "2018-10-03T00:17:52.459Z"
+  ],
+  [
+    "Show Answer",
+    "128.0.0.0 to 191.255.255.255 <br> Used by mid-sized organizations, universities",
+    "2018-10-03T00:17:57.113Z"
+  ],
+  [
+    "Got it",
+    "128.0.0.0 to 191.255.255.255 <br> Used by mid-sized organizations, universities",
+    "2018-10-03T00:17:58.369Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "JS: Inside <script></script> After the page is fully loaded and all other scripts are run, call a function named, \"IOU\"",
+    "2018-10-03T00:17:58.370Z"
+  ],
+  [
+    "Show Answer",
+    "window.onload = \"IOU()\";",
+    "2018-10-03T00:18:00.841Z"
+  ],
+  [
+    "Got it",
+    "window.onload = \"IOU()\";",
+    "2018-10-03T00:18:01.291Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "Values of XP (agile extreme programming)",
+    "2018-10-03T00:18:01.292Z"
+  ],
+  [
+    "Show Answer",
+    "Communication <br> Simplicity (do not anticipate future needs) <br> Feedback - user acceptance testing & unit testing <br> Courage <br> Respect",
+    "2018-10-03T00:18:05.883Z"
+  ],
+  [
+    "Got it",
+    "Communication <br> Simplicity (do not anticipate future needs) <br> Feedback - user acceptance testing & unit testing <br> Courage <br> Respect",
+    "2018-10-03T00:18:06.983Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "A Bag is a ...",
+    "2018-10-03T00:18:06.983Z"
+  ],
+  [
+    "Show Answer",
+    "a finite collection of objects in no particular order; can include duplicates; like a \"set\" or array in JS",
+    "2018-10-03T00:18:08.825Z"
+  ],
+  [
+    "Got it",
+    "a finite collection of objects in no particular order; can include duplicates; like a \"set\" or array in JS",
+    "2018-10-03T00:18:09.874Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "802.11g speed ",
+    "2018-10-03T00:18:09.874Z"
+  ],
+  [
+    "Show Answer",
+    "54Mbps",
+    "2018-10-03T00:18:12.898Z"
+  ],
+  [
+    "Got it",
+    "54Mbps",
+    "2018-10-03T00:18:14.110Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "5 Agile process models",
+    "2018-10-03T00:18:14.111Z"
+  ],
+  [
+    "Show Answer",
+    "Extreme Programming (XP) <br> Scrum <br> Dynamic Systems Development Method (DSDM) <br> Agile Modeling (AM) <br> Agile Unified Processes (AUP)",
+    "2018-10-03T00:18:17.122Z"
+  ],
+  [
+    "Got it",
+    "Extreme Programming (XP) <br> Scrum <br> Dynamic Systems Development Method (DSDM) <br> Agile Modeling (AM) <br> Agile Unified Processes (AUP)",
+    "2018-10-03T00:18:18.210Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "A series converges if",
+    "2018-10-03T00:18:18.210Z"
+  ],
+  [
+    "Show Answer",
+    "The limit as n approaches infinity of the sum of the series from item 1 to n approaches a finite value",
+    "2018-10-03T00:18:24.843Z"
+  ],
+  [
+    "Got it",
+    "The limit as n approaches infinity of the sum of the series from item 1 to n approaches a finite value",
+    "2018-10-03T00:18:25.367Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "DSDM is ... and is a kind of ...",
+    "2018-10-03T00:18:25.367Z"
+  ],
+  [
+    "Show Answer",
+    "Dynamic Systems Development Model is a kind of agile development process model",
+    "2018-10-03T00:18:30.213Z"
+  ],
+  [
+    "Got it",
+    "Dynamic Systems Development Model is a kind of agile development process model",
+    "2018-10-03T00:18:30.754Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "JS: Warn user before leaving without saving data",
+    "2018-10-03T00:18:30.754Z"
+  ],
+  [
+    "Show Answer",
+    "window.addEventListener(\"beforeunload\",function{})",
+    "2018-10-03T00:18:47.264Z"
+  ],
+  [
+    "Got it",
+    "window.addEventListener(\"beforeunload\",function{})",
+    "2018-10-03T00:18:49.795Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "O(1)",
+    "2018-10-03T00:18:49.796Z"
+  ],
+  [
+    "Show Answer",
+    "Constant complexity: no matter what, the algorithm takes the same time",
+    "2018-10-03T00:18:51.543Z"
+  ],
+  [
+    "Got it",
+    "Constant complexity: no matter what, the algorithm takes the same time",
+    "2018-10-03T00:18:52.098Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "Hooker's 7 General Principles",
+    "2018-10-03T00:18:52.099Z"
+  ],
+  [
+    "Show Answer",
+    "1. The reason it exists <br> 2. KISS <br> 3. Maintain the vision <br> 4. What you produce, others will consume <br> 5. Be open to the future <br> 6. plan ahead for reuse <br> 7. Think!",
+    "2018-10-03T00:18:55.724Z"
+  ],
+  [
+    "Got it",
+    "1. The reason it exists <br> 2. KISS <br> 3. Maintain the vision <br> 4. What you produce, others will consume <br> 5. Be open to the future <br> 6. plan ahead for reuse <br> 7. Think!",
+    "2018-10-03T00:18:59.434Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "802.11a speed, distance, hz",
+    "2018-10-03T00:18:59.434Z"
+  ],
+  [
+    "Show Answer",
+    "54Mbps <br> 75ft <br> 5Ghz",
+    "2018-10-03T00:19:01.787Z"
+  ],
+  [
+    "Got it",
+    "54Mbps <br> 75ft <br> 5Ghz",
+    "2018-10-03T00:19:02.345Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "802.11b data speed, distance Hz",
+    "2018-10-03T00:19:02.345Z"
+  ],
+  [
+    "Show Answer",
+    "11Mbps <br> 100-150 ft <br> 2.4GHz",
+    "2018-10-03T00:19:03.270Z"
+  ],
+  [
+    "Got it",
+    "11Mbps <br> 100-150 ft <br> 2.4GHz",
+    "2018-10-03T00:19:03.672Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "4 Scrum Process Patterns",
+    "2018-10-03T00:19:03.673Z"
+  ],
+  [
+    "Show Answer",
+    "Backlog <br> Sprints <br> Scrum Meetings <br> Demos",
+    "2018-10-03T00:19:10.548Z"
+  ],
+  [
+    "Got it",
+    "Backlog <br> Sprints <br> Scrum Meetings <br> Demos",
+    "2018-10-03T00:19:12.633Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "4 XP (extreme programming) key activities",
+    "2018-10-03T00:19:12.634Z"
+  ],
+  [
+    "Show Answer",
+    "Planning <br> Design (CRC Cards) <br> Coding <br> Testing<br>",
+    "2018-10-03T00:19:24.287Z"
+  ],
+  [
+    "Got it",
+    "Planning <br> Design (CRC Cards) <br> Coding <br> Testing<br>",
+    "2018-10-03T00:19:26.855Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "What does it mean that a machine is a \"64 bit\" machine?",
+    "2018-10-03T00:19:26.855Z"
+  ],
+  [
+    "Show Answer",
+    "It has 8 bytes (64 bits) in its registers, address buses, and data buses",
+    "2018-10-03T00:19:35.445Z"
+  ],
+  [
+    "Got it",
+    "It has 8 bytes (64 bits) in its registers, address buses, and data buses",
+    "2018-10-03T00:19:37.997Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "SIN(30 degrees)",
+    "2018-10-03T00:19:37.999Z"
+  ],
+  [
+    "Show Answer",
+    "1/2",
+    "2018-10-03T00:19:42.164Z"
+  ],
+  [
+    "Got it",
+    "1/2",
+    "2018-10-03T00:19:42.742Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "CBA-IPI stands for ...",
+    "2018-10-03T00:19:42.743Z"
+  ],
+  [
+    "Show Answer",
+    "CMM-Based Appraisal for Internal Process Improvement",
+    "2018-10-03T00:19:45.697Z"
+  ],
+  [
+    "Got it",
+    "CMM-Based Appraisal for Internal Process Improvement",
+    "2018-10-03T00:19:47.038Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "CSS: black line around div",
+    "2018-10-03T00:19:47.039Z"
+  ],
+  [
+    "Show Answer",
+    "border: 1px solid black;",
+    "2018-10-03T00:19:53.743Z"
+  ],
+  [
+    "Got it",
+    "border: 1px solid black;",
+    "2018-10-03T00:19:54.938Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "Geography: Do Western Asia Countries",
+    "2018-10-03T00:19:54.939Z"
+  ],
+  [
+    "Show Answer",
+    "Got it?",
+    "2018-10-03T00:19:55.978Z"
+  ],
+  [
+    "Got it",
+    "Got it?",
+    "2018-10-03T00:19:56.375Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "O(Log n)",
+    "2018-10-03T00:19:56.376Z"
+  ],
+  [
+    "Show Answer",
+    "Logarithmic Complexity: time is related to LOG(size of data set)",
+    "2018-10-03T00:19:59.276Z"
+  ],
+  [
+    "Got it",
+    "Logarithmic Complexity: time is related to LOG(size of data set)",
+    "2018-10-03T00:20:00.011Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "Sum of geometric series is:",
+    "2018-10-03T00:20:00.011Z"
+  ],
+  [
+    "Show Answer",
+    "&forall;x{x&isin;R:x &ne; 1} &sum;x^i for i = 0 to n <br> <br> <br> = (x^(n+1) - 1)/(x-1)",
+    "2018-10-03T00:20:28.307Z"
+  ],
+  [
+    "Got it",
+    "&forall;x{x&isin;R:x &ne; 1} &sum;x^i for i = 0 to n <br> <br> <br> = (x^(n+1) - 1)/(x-1)",
+    "2018-10-03T00:20:37.047Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "SCAMPI stands for ...",
+    "2018-10-03T00:20:37.049Z"
+  ],
+  [
+    "Show Answer",
+    "Standard CMMI Assessment Method for Process Improvement",
+    "2018-10-03T00:20:40.585Z"
+  ],
+  [
+    "Got it",
+    "Standard CMMI Assessment Method for Process Improvement",
+    "2018-10-03T00:20:42.237Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "Stack",
+    "2018-10-03T00:20:42.238Z"
+  ],
+  [
+    "Show Answer",
+    "LIFO",
+    "2018-10-03T00:20:46.089Z"
+  ],
+  [
+    "Got it",
+    "LIFO",
+    "2018-10-03T00:20:47.018Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "<img src=\"images\\symdiff.jpg\">",
+    "2018-10-03T00:20:47.023Z"
+  ],
+  [
+    "Show Answer",
+    "Symmetric difference: elements that belong to set A OR set B, and not both.   <br> <img src=\"images\\symdiff.jpg\"> <img src=\"images\\iff.jpg\"> { &or; } - { &and; }",
+    "2018-10-03T00:20:48.518Z"
+  ],
+  [
+    "Got it",
+    "Symmetric difference: elements that belong to set A OR set B, and not both.   <br> <img src=\"images\\symdiff.jpg\"> <img src=\"images\\iff.jpg\"> { &or; } - { &and; }",
+    "2018-10-03T00:20:50.169Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "TCP-IP Layer 5",
+    "2018-10-03T00:20:50.169Z"
+  ],
+  [
+    "Show Answer",
+    "Application Layer: e.g., http.  Software accesses the application layer.  The application layer sends packets to the transport layer.",
+    "2018-10-03T00:20:53.407Z"
+  ],
+  [
+    "Got it",
+    "Application Layer: e.g., http.  Software accesses the application layer.  The application layer sends packets to the transport layer.",
+    "2018-10-03T00:20:54.183Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "HTML entity: &sum;",
+    "2018-10-03T00:20:54.183Z"
+  ],
+  [
+    "Show Answer",
+    "&amp;sum;",
+    "2018-10-03T00:20:56.581Z"
+  ],
+  [
+    "Got it",
+    "&amp;sum;",
+    "2018-10-03T00:20:57.319Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "Waterfall model is ... and has 5 ...",
+    "2018-10-03T00:20:57.321Z"
+  ],
+  [
+    "Show Answer",
+    "Sequential:<br> <br> Requirements<br> <br> Plan<br> <br> Model<br> <br> Construct<br> <br> Deploy<br><br>",
+    "2018-10-03T00:21:02.517Z"
+  ],
+  [
+    "Got it",
+    "Sequential:<br> <br> Requirements<br> <br> Plan<br> <br> Model<br> <br> Construct<br> <br> Deploy<br><br>",
+    "2018-10-03T00:21:03.951Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "802.11g speed ",
+    "2018-10-03T00:21:03.953Z"
+  ],
+  [
+    "Show Answer",
+    "54Mbps",
+    "2018-10-03T00:21:06.710Z"
+  ],
+  [
+    "Got it",
+    "54Mbps",
+    "2018-10-03T00:21:08.485Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "O(Log n)",
+    "2018-10-03T00:21:08.486Z"
+  ],
+  [
+    "Show Answer",
+    "Logarithmic Complexity: time is related to LOG(size of data set)",
+    "2018-10-03T00:21:10.618Z"
+  ],
+  [
+    "Got it",
+    "Logarithmic Complexity: time is related to LOG(size of data set)",
+    "2018-10-03T00:21:11.703Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "CBA-IPI stands for ...",
+    "2018-10-03T00:21:11.704Z"
+  ],
+  [
+    "Show Answer",
+    "CMM-Based Appraisal for Internal Process Improvement",
+    "2018-10-03T00:21:18.983Z"
+  ],
+  [
+    "Got it",
+    "CMM-Based Appraisal for Internal Process Improvement",
+    "2018-10-03T00:21:21.394Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "Values of XP (agile extreme programming)",
+    "2018-10-03T00:21:21.394Z"
+  ],
+  [
+    "Show Answer",
+    "Communication <br> Simplicity (do not anticipate future needs) <br> Feedback - user acceptance testing & unit testing <br> Courage <br> Respect",
+    "2018-10-03T00:21:33.564Z"
+  ],
+  [
+    "Got it",
+    "Communication <br> Simplicity (do not anticipate future needs) <br> Feedback - user acceptance testing & unit testing <br> Courage <br> Respect",
+    "2018-10-03T00:21:36.563Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "Class D IP Addresses",
+    "2018-10-03T00:21:36.564Z"
+  ],
+  [
+    "Show Answer",
+    "224.0.0.0 to 239.255.255.255 <br> Multicast (many-to-many or one-to-many) systems",
+    "2018-10-03T00:21:39.403Z"
+  ],
+  [
+    "Got it",
+    "224.0.0.0 to 239.255.255.255 <br> Multicast (many-to-many or one-to-many) systems",
+    "2018-10-03T00:21:40.504Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "Hooker's 7 General Principles",
+    "2018-10-03T00:21:40.505Z"
+  ],
+  [
+    "Show Answer",
+    "1. The reason it exists <br> 2. KISS <br> 3. Maintain the vision <br> 4. What you produce, others will consume <br> 5. Be open to the future <br> 6. plan ahead for reuse <br> 7. Think!",
+    "2018-10-03T00:21:45.317Z"
+  ],
+  [
+    "Got it",
+    "1. The reason it exists <br> 2. KISS <br> 3. Maintain the vision <br> 4. What you produce, others will consume <br> 5. Be open to the future <br> 6. plan ahead for reuse <br> 7. Think!",
+    "2018-10-03T00:21:54.371Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "4 XP (extreme programming) key activities",
+    "2018-10-03T00:21:54.371Z"
+  ],
+  [
+    "Show Answer",
+    "Planning <br> Design (CRC Cards) <br> Coding <br> Testing<br>",
+    "2018-10-03T00:21:58.096Z"
+  ],
+  [
+    "Got it",
+    "Planning <br> Design (CRC Cards) <br> Coding <br> Testing<br>",
+    "2018-10-03T00:21:58.980Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "Sum of geometric series is:",
+    "2018-10-03T00:21:58.981Z"
+  ],
+  [
+    "Show Answer",
+    "&forall;x{x&isin;R:x &ne; 1} &sum;x^i for i = 0 to n <br> <br> <br> = (x^(n+1) - 1)/(x-1)",
+    "2018-10-03T00:22:20.767Z"
+  ],
+  [
+    "Got it",
+    "&forall;x{x&isin;R:x &ne; 1} &sum;x^i for i = 0 to n <br> <br> <br> = (x^(n+1) - 1)/(x-1)",
+    "2018-10-03T00:22:29.839Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "Three problems with waterfall model: ",
+    "2018-10-03T00:22:29.840Z"
+  ],
+  [
+    "Show Answer",
+    "1) Projects do not flow sequentially <br> 2) Hard to fully realize customer requirements <br> 3) Long hidden delay before delivery is hard on customer patience",
+    "2018-10-03T00:22:31.803Z"
+  ],
+  [
+    "Got it",
+    "1) Projects do not flow sequentially <br> 2) Hard to fully realize customer requirements <br> 3) Long hidden delay before delivery is hard on customer patience",
+    "2018-10-03T00:22:32.327Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "JS: Warn user before leaving without saving data",
+    "2018-10-03T00:22:32.327Z"
+  ],
+  [
+    "Show Answer",
+    "window.addEventListener(\"beforeunload\",function{})",
+    "2018-10-03T00:22:37.387Z"
+  ],
+  [
+    "Got it",
+    "window.addEventListener(\"beforeunload\",function{})",
+    "2018-10-03T00:22:38.874Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "4 Scrum Process Patterns",
+    "2018-10-03T00:22:38.874Z"
+  ],
+  [
+    "Show Answer",
+    "Backlog <br> Sprints <br> Scrum Meetings <br> Demos",
+    "2018-10-03T00:22:52.597Z"
+  ],
+  [
+    "Got it",
+    "Backlog <br> Sprints <br> Scrum Meetings <br> Demos",
+    "2018-10-03T00:23:00.000Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "What security phase begins when an attack is noticed?",
+    "2018-10-03T00:23:00.001Z"
+  ],
+  [
+    "Show Answer",
+    "Detection & analysis phase",
+    "2018-10-03T00:23:03.904Z"
+  ],
+  [
+    "Got it",
+    "Detection & analysis phase",
+    "2018-10-03T00:23:04.476Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "5 aspects of Scrum",
+    "2018-10-03T00:23:04.476Z"
+  ],
+  [
+    "Show Answer",
+    "1. Small Teams <br> 2. Process oriented <br> 3. Frequent increments <br> 4. Testing & documentation during build <br> 5. Can declare product done at any time",
+    "2018-10-03T00:23:06.125Z"
+  ],
+  [
+    "Got it",
+    "1. Small Teams <br> 2. Process oriented <br> 3. Frequent increments <br> 4. Testing & documentation during build <br> 5. Can declare product done at any time",
+    "2018-10-03T00:23:07.952Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "802.11a speed, distance, hz",
+    "2018-10-03T00:23:07.953Z"
+  ],
+  [
+    "Show Answer",
+    "54Mbps <br> 75ft <br> 5Ghz",
+    "2018-10-03T00:23:09.823Z"
+  ],
+  [
+    "Got it",
+    "54Mbps <br> 75ft <br> 5Ghz",
+    "2018-10-03T00:23:10.834Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "SCAMPI stands for ...",
+    "2018-10-03T00:23:10.835Z"
+  ],
+  [
+    "Show Answer",
+    "Standard CMMI Assessment Method for Process Improvement",
+    "2018-10-03T00:23:16.513Z"
+  ],
+  [
+    "Got it",
+    "Standard CMMI Assessment Method for Process Improvement",
+    "2018-10-03T00:23:18.205Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "Linear Process Flow<br> <br> Which 5 activities?",
+    "2018-10-03T00:23:18.207Z"
+  ],
+  [
+    "Show Answer",
+    "Execute 5 framework activities in sequence <br> Communication - Planning - Modeling - Construction - Deployment",
+    "2018-10-03T00:23:20.732Z"
+  ],
+  [
+    "Got it",
+    "Execute 5 framework activities in sequence <br> Communication - Planning - Modeling - Construction - Deployment",
+    "2018-10-03T00:23:22.271Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "TCP-IP Layer 5",
+    "2018-10-03T00:23:22.272Z"
+  ],
+  [
+    "Show Answer",
+    "Application Layer: e.g., http.  Software accesses the application layer.  The application layer sends packets to the transport layer.",
+    "2018-10-03T00:23:26.080Z"
+  ],
+  [
+    "Got it",
+    "Application Layer: e.g., http.  Software accesses the application layer.  The application layer sends packets to the transport layer.",
+    "2018-10-03T00:23:26.675Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "CSS: Remove gaps between cells in a table",
+    "2018-10-03T00:23:26.676Z"
+  ],
+  [
+    "Show Answer",
+    "td{border-collapse:collapse;}",
+    "2018-10-03T00:23:30.122Z"
+  ],
+  [
+    "Got it",
+    "td{border-collapse:collapse;}",
+    "2018-10-03T00:23:31.360Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "802.11n speed",
+    "2018-10-03T00:23:31.360Z"
+  ],
+  [
+    "Show Answer",
+    "200 Mbps",
+    "2018-10-03T00:23:32.340Z"
+  ],
+  [
+    "Got it",
+    "200 Mbps",
+    "2018-10-03T00:23:32.897Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "Dynamic Systems Development Method (DSDM) Activities",
+    "2018-10-03T00:23:32.897Z"
+  ],
+  [
+    "Show Answer",
+    "1) Feasibility Study (constraints & objectives) <br> 2) Business Study (requirements) <br> 3) Iterative Cycles (prototype to final)",
+    "2018-10-03T00:23:34.876Z"
+  ],
+  [
+    "Got it",
+    "1) Feasibility Study (constraints & objectives) <br> 2) Business Study (requirements) <br> 3) Iterative Cycles (prototype to final)",
+    "2018-10-03T00:23:35.960Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "What does it mean that a machine is a \"64 bit\" machine?",
+    "2018-10-03T00:23:35.960Z"
+  ],
+  [
+    "Show Answer",
+    "It has 8 bytes (64 bits) in its registers, address buses, and data buses",
+    "2018-10-03T00:23:37.713Z"
+  ],
+  [
+    "Got it",
+    "It has 8 bytes (64 bits) in its registers, address buses, and data buses",
+    "2018-10-03T00:23:38.036Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "HTML: First thing in an HTML file -- to let anything reading the file know what it is",
+    "2018-10-03T00:23:38.037Z"
+  ],
+  [
+    "Show Answer",
+    "&lt;!DOCTYPE html>",
+    "2018-10-03T00:23:39.747Z"
+  ],
+  [
+    "Got it",
+    "&lt;!DOCTYPE html>",
+    "2018-10-03T00:23:40.278Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "Class B IP Addresses",
+    "2018-10-03T00:23:40.278Z"
+  ],
+  [
+    "Show Answer",
+    "128.0.0.0 to 191.255.255.255 <br> Used by mid-sized organizations, universities",
+    "2018-10-03T00:23:47.183Z"
+  ],
+  [
+    "Got it",
+    "128.0.0.0 to 191.255.255.255 <br> Used by mid-sized organizations, universities",
+    "2018-10-03T00:23:49.921Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "Five core ITIL publications",
+    "2018-10-03T00:23:49.921Z"
+  ],
+  [
+    "Show Answer",
+    "1. Service Strategy <br> 2. Service Design <br> 3. Service Transition <br> 4. Service Operation <br> 5. Continual Service Improvement",
+    "2018-10-03T00:24:28.560Z"
+  ],
+  [
+    "Got it",
+    "1. Service Strategy <br> 2. Service Design <br> 3. Service Transition <br> 4. Service Operation <br> 5. Continual Service Improvement",
+    "2018-10-03T00:24:30.408Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "802.11n Hz",
+    "2018-10-03T00:24:30.409Z"
+  ],
+  [
+    "Show Answer",
+    "2.4 GHz",
+    "2018-10-03T00:24:34.054Z"
+  ],
+  [
+    "Got it",
+    "2.4 GHz",
+    "2018-10-03T00:24:34.654Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "Five Software Engineering Framework Activities:",
+    "2018-10-03T00:24:34.655Z"
+  ],
+  [
+    "Show Answer",
+    "Communication<br> <br> Planning<br> <br> Modeling<br> <br> Construction<br> <br> Deployment ",
+    "2018-10-03T00:24:36.773Z"
+  ],
+  [
+    "Got it",
+    "Communication<br> <br> Planning<br> <br> Modeling<br> <br> Construction<br> <br> Deployment ",
+    "2018-10-03T00:24:37.726Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "HTML entity: &ne;",
+    "2018-10-03T00:24:37.727Z"
+  ],
+  [
+    "Show Answer",
+    "&amp;ne;",
+    "2018-10-03T00:24:39.126Z"
+  ],
+  [
+    "Got it",
+    "&amp;ne;",
+    "2018-10-03T00:24:39.895Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "Boehm's six invariants of the spiral software development model",
+    "2018-10-03T00:24:39.895Z"
+  ],
+  [
+    "Show Answer",
+    "1) Define artifacts (deliverables) concurrently <br> 2) 4 activities: identify stakeholder wins; identify & evaluate alternative strategies; identify & plan for risks; obtain approvals <br> wins, alternatives,risks,approvals: WARS <br> 3) Set effort to minimize risk <br> 4) Set detail level to minimize risk <br> 5) Anchor point milestones: 1) Life Cycle Objectives, 2) Life Cycle Architecture, 3) Initial Operational Capability",
+    "2018-10-03T00:24:51.226Z"
+  ],
+  [
+    "Got it",
+    "1) Define artifacts (deliverables) concurrently <br> 2) 4 activities: identify stakeholder wins; identify & evaluate alternative strategies; identify & plan for risks; obtain approvals <br> wins, alternatives,risks,approvals: WARS <br> 3) Set effort to minimize risk <br> 4) Set detail level to minimize risk <br> 5) Anchor point milestones: 1) Life Cycle Objectives, 2) Life Cycle Architecture, 3) Initial Operational Capability",
+    "2018-10-03T00:24:52.123Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "SCAMPI phases:",
+    "2018-10-03T00:24:52.123Z"
+  ],
+  [
+    "Show Answer",
+    "Initiating, Diagnosing, Establishing, Acting, & Learning <br>  <br> IDEAL",
+    "2018-10-03T00:24:56.764Z"
+  ],
+  [
+    "Got it",
+    "Initiating, Diagnosing, Establishing, Acting, & Learning <br>  <br> IDEAL",
+    "2018-10-03T00:25:01.285Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "ITIL Service Design covers 5 areas:",
+    "2018-10-03T00:25:01.285Z"
+  ],
+  [
+    "Show Answer",
+    "design coordination <br> what services are provided <br> availability <br> capacity <br> security <br> ",
+    "2018-10-03T00:25:06.007Z"
+  ],
+  [
+    "Got it",
+    "design coordination <br> what services are provided <br> availability <br> capacity <br> security <br> ",
+    "2018-10-03T00:25:06.990Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "Class C IP addresses",
+    "2018-10-03T00:25:06.991Z"
+  ],
+  [
+    "Show Answer",
+    "192.0.0.0 to 223.255.255.255 <br> Used on small networks (192 looks familiar, because it's used in our home)",
+    "2018-10-03T00:25:11.269Z"
+  ],
+  [
+    "Got it",
+    "192.0.0.0 to 223.255.255.255 <br> Used on small networks (192 looks familiar, because it's used in our home)",
+    "2018-10-03T00:25:13.242Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "JS: Inline set a div with id \"mydiv\" so that it calls mouseIsOut when the mouse rolls out of the div",
+    "2018-10-03T00:25:13.242Z"
+  ],
+  [
+    "Show Answer",
+    "&lt;div id=\"mydiv\" onmouseout=\"mouseIsOut()\">",
+    "2018-10-03T00:25:17.779Z"
+  ],
+  [
+    "Got it",
+    "&lt;div id=\"mydiv\" onmouseout=\"mouseIsOut()\">",
+    "2018-10-03T00:25:18.619Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "HTML entity: &sum;",
+    "2018-10-03T00:25:18.620Z"
+  ],
+  [
+    "Show Answer",
+    "&amp;sum;",
+    "2018-10-03T00:25:21.053Z"
+  ],
+  [
+    "Got it",
+    "&amp;sum;",
+    "2018-10-03T00:25:21.840Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "<img src=\"images\\real.jpg\">",
+    "2018-10-03T00:25:21.843Z"
+  ],
+  [
+    "Show Answer",
+    "The set of real numbers: all numbers that are not imaginary.  Includes PI, -3.4445, - infinity, & 99.99.",
+    "2018-10-03T00:25:23.124Z"
+  ],
+  [
+    "Got it",
+    "The set of real numbers: all numbers that are not imaginary.  Includes PI, -3.4445, - infinity, & 99.99.",
+    "2018-10-03T00:25:23.864Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "Agile Unified Process (AUP) steps:",
+    "2018-10-03T00:25:23.864Z"
+  ],
+  [
+    "Show Answer",
+    "Modeling (create UML?) <br> Implementation (code) <br> Testing <br> Deployment <br>  <br> MITeD!",
+    "2018-10-03T00:25:26.260Z"
+  ],
+  [
+    "Got it",
+    "Modeling (create UML?) <br> Implementation (code) <br> Testing <br> Deployment <br>  <br> MITeD!",
+    "2018-10-03T00:25:27.501Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "JS: Is \"Z\" < \"a\"?",
+    "2018-10-03T00:25:27.501Z"
+  ],
+  [
+    "Show Answer",
+    "yes",
+    "2018-10-03T00:25:29.123Z"
+  ],
+  [
+    "Got it",
+    "yes",
+    "2018-10-03T00:25:29.820Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "Software Engineering Umbrella Activities",
+    "2018-10-03T00:25:29.821Z"
+  ],
+  [
+    "Show Answer",
+    "Project Tracking & Control<br>Risk Management<br>Quality Assurance<br> Configuration Management<br> Technology Review <br>  <br> ",
+    "2018-10-03T00:25:31.433Z"
+  ],
+  [
+    "Got it",
+    "Project Tracking & Control<br>Risk Management<br>Quality Assurance<br> Configuration Management<br> Technology Review <br>  <br> ",
+    "2018-10-03T00:25:32.307Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "A series converges if",
+    "2018-10-03T00:25:32.308Z"
+  ],
+  [
+    "Show Answer",
+    "The limit as n approaches infinity of the sum of the series from item 1 to n approaches a finite value",
+    "2018-10-03T00:25:34.853Z"
+  ],
+  [
+    "Got it",
+    "The limit as n approaches infinity of the sum of the series from item 1 to n approaches a finite value",
+    "2018-10-03T00:25:35.671Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "Complexity of insertion sort",
+    "2018-10-03T00:25:35.671Z"
+  ],
+  [
+    "Show Answer",
+    "O(n^2)",
+    "2018-10-03T00:25:39.428Z"
+  ],
+  [
+    "Got it",
+    "O(n^2)",
+    "2018-10-03T00:25:40.045Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "A Bag is a ...",
+    "2018-10-03T00:25:40.046Z"
+  ],
+  [
+    "Show Answer",
+    "a finite collection of objects in no particular order; can include duplicates; like a \"set\" or array in JS",
+    "2018-10-03T00:25:40.954Z"
+  ],
+  [
+    "Got it",
+    "a finite collection of objects in no particular order; can include duplicates; like a \"set\" or array in JS",
+    "2018-10-03T00:25:41.435Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "Stack",
+    "2018-10-03T00:25:41.436Z"
+  ],
+  [
+    "Show Answer",
+    "LIFO",
+    "2018-10-03T00:25:43.473Z"
+  ],
+  [
+    "Got it",
+    "LIFO",
+    "2018-10-03T00:25:44.076Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "<img src=\"images\\symdiff.jpg\">",
+    "2018-10-03T00:25:44.081Z"
+  ],
+  [
+    "Show Answer",
+    "Symmetric difference: elements that belong to set A OR set B, and not both.   <br> <img src=\"images\\symdiff.jpg\"> <img src=\"images\\iff.jpg\"> { &or; } - { &and; }",
+    "2018-10-03T00:25:45.558Z"
+  ],
+  [
+    "Got it",
+    "Symmetric difference: elements that belong to set A OR set B, and not both.   <br> <img src=\"images\\symdiff.jpg\"> <img src=\"images\\iff.jpg\"> { &or; } - { &and; }",
+    "2018-10-03T00:25:47.104Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "<img src=\"images\\natOne.jpg\">",
+    "2018-10-03T00:25:47.106Z"
+  ],
+  [
+    "Show Answer",
+    "The natural numbers (integer, whole numbers) from 1 up.  Does not include zero or negative numbers.",
+    "2018-10-03T00:25:49.065Z"
+  ],
+  [
+    "Got it",
+    "The natural numbers (integer, whole numbers) from 1 up.  Does not include zero or negative numbers.",
+    "2018-10-03T00:25:50.517Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "CSS: Centering text",
+    "2018-10-03T00:25:50.517Z"
+  ],
+  [
+    "Show Answer",
+    "text-align:center;",
+    "2018-10-03T00:25:56.093Z"
+  ],
+  [
+    "Got it",
+    "text-align:center;",
+    "2018-10-03T00:25:57.058Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "802.11b data speed, distance Hz",
+    "2018-10-03T00:25:57.059Z"
+  ],
+  [
+    "Show Answer",
+    "11Mbps <br> 100-150 ft <br> 2.4GHz",
+    "2018-10-03T00:26:00.033Z"
+  ],
+  [
+    "Got it",
+    "11Mbps <br> 100-150 ft <br> 2.4GHz",
+    "2018-10-03T00:26:01.495Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "Class A IP Address range",
+    "2018-10-03T00:26:01.495Z"
+  ],
+  [
+    "Show Answer",
+    "1.0.0.0 to 126.255.255.255 <br> Used by governments & very large corporations",
+    "2018-10-03T00:26:02.770Z"
+  ],
+  [
+    "Got it",
+    "1.0.0.0 to 126.255.255.255 <br> Used by governments & very large corporations",
+    "2018-10-03T00:26:04.230Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "5 Agile process models",
+    "2018-10-03T00:26:04.230Z"
+  ],
+  [
+    "Show Answer",
+    "Extreme Programming (XP) <br> Scrum <br> Dynamic Systems Development Method (DSDM) <br> Agile Modeling (AM) <br> Agile Unified Processes (AUP)",
+    "2018-10-03T00:26:05.215Z"
+  ],
+  [
+    "Got it",
+    "Extreme Programming (XP) <br> Scrum <br> Dynamic Systems Development Method (DSDM) <br> Agile Modeling (AM) <br> Agile Unified Processes (AUP)",
+    "2018-10-03T00:26:05.792Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "CSMA/CD stands for",
+    "2018-10-03T00:26:05.792Z"
+  ],
+  [
+    "Show Answer",
+    "Carrier sense multiple access with collision detection",
+    "2018-10-03T00:26:06.970Z"
+  ],
+  [
+    "Got it",
+    "Carrier sense multiple access with collision detection",
+    "2018-10-03T00:26:07.632Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "Sum of 1+2+3+4+...+n =",
+    "2018-10-03T00:26:07.632Z"
+  ],
+  [
+    "Show Answer",
+    "(n+1)n/2",
+    "2018-10-03T00:26:09.670Z"
+  ],
+  [
+    "Got it",
+    "(n+1)n/2",
+    "2018-10-03T00:26:10.140Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "802.11n speed",
+    "2018-10-03T00:26:10.143Z"
+  ],
+  [
+    "Show Answer",
+    "200 Mbps",
+    "2018-10-03T00:26:10.917Z"
+  ],
+  [
+    "Got it",
+    "200 Mbps",
+    "2018-10-03T00:26:11.705Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "Software Engineering Umbrella Activities",
+    "2018-10-03T00:26:11.706Z"
+  ],
+  [
+    "Show Answer",
+    "Project Tracking & Control<br>Risk Management<br>Quality Assurance<br> Configuration Management<br> Technology Review <br>  <br> ",
+    "2018-10-03T00:26:17.791Z"
+  ],
+  [
+    "Got it",
+    "Project Tracking & Control<br>Risk Management<br>Quality Assurance<br> Configuration Management<br> Technology Review <br>  <br> ",
+    "2018-10-03T00:26:19.464Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "CSMA/CD stands for",
+    "2018-10-03T00:26:19.465Z"
+  ],
+  [
+    "Show Answer",
+    "Carrier sense multiple access with collision detection",
+    "2018-10-03T00:26:20.896Z"
+  ],
+  [
+    "Got it",
+    "Carrier sense multiple access with collision detection",
+    "2018-10-03T00:26:21.587Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "802.11a speed, distance, hz",
+    "2018-10-03T00:26:21.588Z"
+  ],
+  [
+    "Show Answer",
+    "54Mbps <br> 75ft <br> 5Ghz",
+    "2018-10-03T00:26:22.182Z"
+  ],
+  [
+    "Got it",
+    "54Mbps <br> 75ft <br> 5Ghz",
+    "2018-10-03T00:26:22.698Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "SCAMPI stands for ...",
+    "2018-10-03T00:26:22.699Z"
+  ],
+  [
+    "Show Answer",
+    "Standard CMMI Assessment Method for Process Improvement",
+    "2018-10-03T00:26:23.377Z"
+  ],
+  [
+    "Got it",
+    "Standard CMMI Assessment Method for Process Improvement",
+    "2018-10-03T00:26:23.821Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "Dynamic Systems Development Method (DSDM) Activities",
+    "2018-10-03T00:26:23.821Z"
+  ],
+  [
+    "Show Answer",
+    "1) Feasibility Study (constraints & objectives) <br> 2) Business Study (requirements) <br> 3) Iterative Cycles (prototype to final)",
+    "2018-10-03T00:26:25.219Z"
+  ],
+  [
+    "Got it",
+    "1) Feasibility Study (constraints & objectives) <br> 2) Business Study (requirements) <br> 3) Iterative Cycles (prototype to final)",
+    "2018-10-03T00:26:25.788Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "Linear Process Flow<br> <br> Which 5 activities?",
+    "2018-10-03T00:26:25.788Z"
+  ],
+  [
+    "Show Answer",
+    "Execute 5 framework activities in sequence <br> Communication - Planning - Modeling - Construction - Deployment",
+    "2018-10-03T00:26:26.438Z"
+  ],
+  [
+    "Got it",
+    "Execute 5 framework activities in sequence <br> Communication - Planning - Modeling - Construction - Deployment",
+    "2018-10-03T00:26:26.775Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "A series converges if",
+    "2018-10-03T00:26:26.775Z"
+  ],
+  [
+    "Show Answer",
+    "The limit as n approaches infinity of the sum of the series from item 1 to n approaches a finite value",
+    "2018-10-03T00:26:27.045Z"
+  ],
+  [
+    "Got it",
+    "The limit as n approaches infinity of the sum of the series from item 1 to n approaches a finite value",
+    "2018-10-03T00:26:27.283Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "CSS: Centering text",
+    "2018-10-03T00:26:27.284Z"
+  ],
+  [
+    "Show Answer",
+    "text-align:center;",
+    "2018-10-03T00:26:27.533Z"
+  ],
+  [
+    "Got it",
+    "text-align:center;",
+    "2018-10-03T00:26:27.746Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "802.11g speed ",
+    "2018-10-03T00:26:27.746Z"
+  ],
+  [
+    "Show Answer",
+    "54Mbps",
+    "2018-10-03T00:26:27.953Z"
+  ],
+  [
+    "Got it",
+    "54Mbps",
+    "2018-10-03T00:26:28.173Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "CSS: Remove gaps between cells in a table",
+    "2018-10-03T00:26:28.174Z"
+  ],
+  [
+    "Show Answer",
+    "td{border-collapse:collapse;}",
+    "2018-10-03T00:26:28.394Z"
+  ],
+  [
+    "Got it",
+    "td{border-collapse:collapse;}",
+    "2018-10-03T00:26:28.591Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "Hooker's 7 General Principles",
+    "2018-10-03T00:26:28.592Z"
+  ],
+  [
+    "Show Answer",
+    "1. The reason it exists <br> 2. KISS <br> 3. Maintain the vision <br> 4. What you produce, others will consume <br> 5. Be open to the future <br> 6. plan ahead for reuse <br> 7. Think!",
+    "2018-10-03T00:26:30.042Z"
+  ],
+  [
+    "Got it",
+    "1. The reason it exists <br> 2. KISS <br> 3. Maintain the vision <br> 4. What you produce, others will consume <br> 5. Be open to the future <br> 6. plan ahead for reuse <br> 7. Think!",
+    "2018-10-03T00:26:30.252Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "ITIL Service Design covers 5 areas:",
+    "2018-10-03T00:26:30.252Z"
+  ],
+  [
+    "Show Answer",
+    "design coordination <br> what services are provided <br> availability <br> capacity <br> security <br> ",
+    "2018-10-03T00:26:31.280Z"
+  ],
+  [
+    "Got it",
+    "design coordination <br> what services are provided <br> availability <br> capacity <br> security <br> ",
+    "2018-10-03T00:26:31.477Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "Class C IP addresses",
+    "2018-10-03T00:26:31.477Z"
+  ],
+  [
+    "Show Answer",
+    "192.0.0.0 to 223.255.255.255 <br> Used on small networks (192 looks familiar, because it's used in our home)",
+    "2018-10-03T00:26:32.504Z"
+  ],
+  [
+    "Got it",
+    "192.0.0.0 to 223.255.255.255 <br> Used on small networks (192 looks familiar, because it's used in our home)",
+    "2018-10-03T00:26:32.695Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "Three problems with waterfall model: ",
+    "2018-10-03T00:26:32.696Z"
+  ],
+  [
+    "Show Answer",
+    "1) Projects do not flow sequentially <br> 2) Hard to fully realize customer requirements <br> 3) Long hidden delay before delivery is hard on customer patience",
+    "2018-10-03T00:26:32.876Z"
+  ],
+  [
+    "Got it",
+    "1) Projects do not flow sequentially <br> 2) Hard to fully realize customer requirements <br> 3) Long hidden delay before delivery is hard on customer patience",
+    "2018-10-03T00:26:33.087Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "Class B IP Addresses",
+    "2018-10-03T00:26:33.087Z"
+  ],
+  [
+    "Show Answer",
+    "128.0.0.0 to 191.255.255.255 <br> Used by mid-sized organizations, universities",
+    "2018-10-03T00:26:33.276Z"
+  ],
+  [
+    "Got it",
+    "128.0.0.0 to 191.255.255.255 <br> Used by mid-sized organizations, universities",
+    "2018-10-03T00:26:33.460Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "CBA-IPI stands for ...",
+    "2018-10-03T00:26:33.461Z"
+  ],
+  [
+    "Show Answer",
+    "CMM-Based Appraisal for Internal Process Improvement",
+    "2018-10-03T00:26:33.668Z"
+  ],
+  [
+    "Got it",
+    "CMM-Based Appraisal for Internal Process Improvement",
+    "2018-10-03T00:26:33.855Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "4 Scrum Process Patterns",
+    "2018-10-03T00:26:33.856Z"
+  ],
+  [
+    "Show Answer",
+    "Backlog <br> Sprints <br> Scrum Meetings <br> Demos",
+    "2018-10-03T00:26:34.061Z"
+  ],
+  [
+    "Got it",
+    "Backlog <br> Sprints <br> Scrum Meetings <br> Demos",
+    "2018-10-03T00:26:34.254Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "JS: Warn user before leaving without saving data",
+    "2018-10-03T00:26:34.254Z"
+  ],
+  [
+    "Show Answer",
+    "window.addEventListener(\"beforeunload\",function{})",
+    "2018-10-03T00:26:34.499Z"
+  ],
+  [
+    "Got it",
+    "window.addEventListener(\"beforeunload\",function{})",
+    "2018-10-03T00:26:34.861Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "Class D IP Addresses",
+    "2018-10-03T00:26:34.861Z"
+  ],
+  [
+    "Show Answer",
+    "224.0.0.0 to 239.255.255.255 <br> Multicast (many-to-many or one-to-many) systems",
+    "2018-10-03T00:26:35.069Z"
+  ],
+  [
+    "Got it",
+    "224.0.0.0 to 239.255.255.255 <br> Multicast (many-to-many or one-to-many) systems",
+    "2018-10-03T00:26:35.258Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "4 XP (extreme programming) key activities",
+    "2018-10-03T00:26:35.258Z"
+  ],
+  [
+    "Show Answer",
+    "Planning <br> Design (CRC Cards) <br> Coding <br> Testing<br>",
+    "2018-10-03T00:26:35.465Z"
+  ],
+  [
+    "Got it",
+    "Planning <br> Design (CRC Cards) <br> Coding <br> Testing<br>",
+    "2018-10-03T00:26:35.647Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "5 aspects of Scrum",
+    "2018-10-03T00:26:35.647Z"
+  ],
+  [
+    "Show Answer",
+    "1. Small Teams <br> 2. Process oriented <br> 3. Frequent increments <br> 4. Testing & documentation during build <br> 5. Can declare product done at any time",
+    "2018-10-03T00:26:37.208Z"
+  ],
+  [
+    "Got it",
+    "1. Small Teams <br> 2. Process oriented <br> 3. Frequent increments <br> 4. Testing & documentation during build <br> 5. Can declare product done at any time",
+    "2018-10-03T00:26:38.721Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "802.11b data speed, distance Hz",
+    "2018-10-03T00:26:38.721Z"
+  ],
+  [
+    "Show Answer",
+    "11Mbps <br> 100-150 ft <br> 2.4GHz",
+    "2018-10-03T00:26:40.115Z"
+  ],
+  [
+    "Got it",
+    "11Mbps <br> 100-150 ft <br> 2.4GHz",
+    "2018-10-03T00:26:40.314Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "What security phase begins when an attack is noticed?",
+    "2018-10-03T00:26:40.314Z"
+  ],
+  [
+    "Show Answer",
+    "Detection & analysis phase",
+    "2018-10-03T00:26:40.498Z"
+  ],
+  [
+    "Got it",
+    "Detection & analysis phase",
+    "2018-10-03T00:26:40.682Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "<img src=\"images\\real.jpg\">",
+    "2018-10-03T00:26:40.684Z"
+  ],
+  [
+    "Show Answer",
+    "The set of real numbers: all numbers that are not imaginary.  Includes PI, -3.4445, - infinity, & 99.99.",
+    "2018-10-03T00:26:40.860Z"
+  ],
+  [
+    "Got it",
+    "The set of real numbers: all numbers that are not imaginary.  Includes PI, -3.4445, - infinity, & 99.99.",
+    "2018-10-03T00:26:41.049Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "Waterfall model is ... and has 5 ...",
+    "2018-10-03T00:26:41.049Z"
+  ],
+  [
+    "Show Answer",
+    "Sequential:<br> <br> Requirements<br> <br> Plan<br> <br> Model<br> <br> Construct<br> <br> Deploy<br><br>",
+    "2018-10-03T00:26:42.971Z"
+  ],
+  [
+    "Got it",
+    "Sequential:<br> <br> Requirements<br> <br> Plan<br> <br> Model<br> <br> Construct<br> <br> Deploy<br><br>",
+    "2018-10-03T00:26:44.521Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "5 Agile process models",
+    "2018-10-03T00:26:44.522Z"
+  ],
+  [
+    "Show Answer",
+    "Extreme Programming (XP) <br> Scrum <br> Dynamic Systems Development Method (DSDM) <br> Agile Modeling (AM) <br> Agile Unified Processes (AUP)",
+    "2018-10-03T00:26:46.095Z"
+  ],
+  [
+    "Got it",
+    "Extreme Programming (XP) <br> Scrum <br> Dynamic Systems Development Method (DSDM) <br> Agile Modeling (AM) <br> Agile Unified Processes (AUP)",
+    "2018-10-03T00:26:46.620Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "Five core ITIL publications",
+    "2018-10-03T00:26:46.620Z"
+  ],
+  [
+    "Show Answer",
+    "1. Service Strategy <br> 2. Service Design <br> 3. Service Transition <br> 4. Service Operation <br> 5. Continual Service Improvement",
+    "2018-10-03T00:26:47.236Z"
+  ],
+  [
+    "Got it",
+    "1. Service Strategy <br> 2. Service Design <br> 3. Service Transition <br> 4. Service Operation <br> 5. Continual Service Improvement",
+    "2018-10-03T00:26:47.425Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "A Bag is a ...",
+    "2018-10-03T00:26:47.425Z"
+  ],
+  [
+    "Show Answer",
+    "a finite collection of objects in no particular order; can include duplicates; like a \"set\" or array in JS",
+    "2018-10-03T00:26:49.159Z"
+  ],
+  [
+    "Got it",
+    "a finite collection of objects in no particular order; can include duplicates; like a \"set\" or array in JS",
+    "2018-10-03T00:26:49.341Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "SCAMPI phases:",
+    "2018-10-03T00:26:49.342Z"
+  ],
+  [
+    "Show Answer",
+    "Initiating, Diagnosing, Establishing, Acting, & Learning <br>  <br> IDEAL",
+    "2018-10-03T00:26:49.532Z"
+  ],
+  [
+    "Got it",
+    "Initiating, Diagnosing, Establishing, Acting, & Learning <br>  <br> IDEAL",
+    "2018-10-03T00:26:49.719Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "O(Log n)",
+    "2018-10-03T00:26:49.719Z"
+  ],
+  [
+    "Show Answer",
+    "Logarithmic Complexity: time is related to LOG(size of data set)",
+    "2018-10-03T00:26:49.904Z"
+  ],
+  [
+    "Got it",
+    "Logarithmic Complexity: time is related to LOG(size of data set)",
+    "2018-10-03T00:26:50.083Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "Five Software Engineering Framework Activities:",
+    "2018-10-03T00:26:50.083Z"
+  ],
+  [
+    "Show Answer",
+    "Communication<br> <br> Planning<br> <br> Modeling<br> <br> Construction<br> <br> Deployment ",
+    "2018-10-03T00:26:52.003Z"
+  ],
+  [
+    "Got it",
+    "Communication<br> <br> Planning<br> <br> Modeling<br> <br> Construction<br> <br> Deployment ",
+    "2018-10-03T00:26:54.312Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "Class A IP Address range",
+    "2018-10-03T00:26:54.312Z"
+  ],
+  [
+    "Show Answer",
+    "1.0.0.0 to 126.255.255.255 <br> Used by governments & very large corporations",
+    "2018-10-03T00:26:56.164Z"
+  ],
+  [
+    "Got it",
+    "1.0.0.0 to 126.255.255.255 <br> Used by governments & very large corporations",
+    "2018-10-03T00:26:56.840Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "CSMA/CD stands for",
+    "2018-10-03T00:26:56.840Z"
+  ],
+  [
+    "Show Answer",
+    "Carrier sense multiple access with collision detection",
+    "2018-10-03T00:26:57.567Z"
+  ],
+  [
+    "Got it",
+    "Carrier sense multiple access with collision detection",
+    "2018-10-03T00:26:58.150Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "CSS: Centering text",
+    "2018-10-03T00:26:58.151Z"
+  ],
+  [
+    "Show Answer",
+    "text-align:center;",
+    "2018-10-03T00:26:58.918Z"
+  ],
+  [
+    "Got it",
+    "text-align:center;",
+    "2018-10-03T00:26:59.660Z"
+  ],
+  [
+    "Show Flashcard Question",
+    "SCAMPI phases:",
+    "2018-10-03T00:26:59.660Z"
+  ],
+  [
+    "Show Answer",
+    "Initiating, Diagnosing, Establishing, Acting, & Learning <br>  <br> IDEAL",
+    "2018-10-03T00:27:00.607Z"
+  ],
+  [
+    "Got it",
+    "Initiating, Diagnosing, Establishing, Acting, & Learning <br>  <br> IDEAL",
+    "2018-10-03T00:27:01.202Z"
+  ],
+  [
+    "Show All Done Flashcards",
+    "2018-10-03T00:27:01.204Z"
+  ],
+  [
+    "Save data",
+    "2018-10-03T00:27:06.199Z"
+  ]
+]
