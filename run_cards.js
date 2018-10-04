@@ -24,6 +24,8 @@
 
 function runFlashcard() {
 
+  //alert("In runFlashcard");
+  
   // update time display
   showTimeSoFar(); 
 
@@ -46,7 +48,7 @@ function runFlashcard() {
     </span>
   `; 
   
-  if (displayListEmpty()) {
+  if (countTrue(displayList) === 0) {
     setupDisplayList(); 
    }
 
@@ -56,13 +58,9 @@ function runFlashcard() {
   estimateRemainingTime(); 
 } 
 
-function displayListEmpty() {
-  return countTrue(displayList) === 0; 
-}
-
 function countTrue(dispList) {
   let nTrue = 0; 
-  for (let i = 0; i <= dispList.length; i++) {
+  for (let i = 0; i < dispList.length; i++) {
     if (dispList[i]) {
       nTrue++; 
     }
@@ -71,7 +69,6 @@ function countTrue(dispList) {
 }
 
 function setupDisplayList() {
-  
   // for turning differences of datetimes into days
   const MILLISECS_PER_DAY = 1000 * 60 * 60 * 24; 
   
@@ -80,9 +77,10 @@ function setupDisplayList() {
   displayList = []; 
   for (let i = 0; i<cards.length; i++) {
     displayList[i] = false; 
+    
     if (cards[i]['rightToday'] < 3) {
       
-      // Calculate a score indicating ho9w much the card needs to be shown now
+      // Calculate a score indicating how much the card needs to be shown now
       const lastCorrectDate = new Date(cards[i]['lastCorrectDate']); 
       const todayDate = new Date(); 
       const utcLast = Date.UTC(
@@ -98,14 +96,23 @@ function setupDisplayList() {
       ); 
           
       const daysSinceLast = Math.floor((utcNow - utcLast) / MILLISECS_PER_DAY);
+      
+      //alert("daysSinceLast = "+daysSinceLast);
 
       const cutoff = Math.ceil(Math.exp(cards[i]['rightInARow']*0.51)); 
+      
+      //alert("cutoff: "+cutoff);
+      
+      //alert("cards[i]['rightToday'] = "+cards[i]['rightToday']);
+      
+
 
       const showScore = daysSinceLast - cutoff - cards[i]['rightToday']/10.0; 
-
+      
+      //alert("showScore = "+showScore);
       if (showScore > 0) {
         displayList[i] = true;
-      }
+      }         
     }
   }
 }
@@ -115,18 +122,19 @@ function showCard() {
 
   currentCard = -1; 
   for (let i = 0; i < displayList.length; i++) {
-    if (displayList[i]) {
+    if (displayList[i] == true) {
       currentCard = i; 
       break; 
     }
   }
 
   if (currentCard > -1) {
+    
     document.getElementById('question').innerHTML = 
         cards[currentCard]['question']; 
         
     document.getElementById('answer').innerHTML = cards[currentCard]['answer']; 
-    displayList[currentCard]=false; 
+    displayList[currentCard] = false; 
     
     const nowTime = new Date(); 
     systemLog.push([
@@ -202,7 +210,9 @@ function fixCard() {
   document.getElementById('resourcesInput').value = cards[currentCard]['resources']; 
 
   // remove the to-be-replaced card
-  const removedCard = cards.splice(currentCard, 1); 
+  let removed = cards.splice(currentCard, 1); 
+  removed = displayList.splice(currentCard,1);
+  displayList.push(true);
   
   // Mode is stored in a global variable, createCardMode
   createCardMode = 'Revise'; 
@@ -210,7 +220,7 @@ function fixCard() {
 
 
 function delayCard() {
-  cards[currentCard]['rightInARow'] *= 4; 
+  cards[currentCard]['rightInARow'] *= 2; 
   gotIt(); 
 }
 
