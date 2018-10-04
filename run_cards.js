@@ -177,6 +177,10 @@ function gotIt() {
     cards[currentCard]['rightToday'] = 0; 
   }
   
+  // Set exit prompt to save if not yet saved
+  window.addEventListener('beforeunload', ExitWarningToSave); 
+  
+  
   runFlashcard(); 
 }
 
@@ -191,6 +195,11 @@ function missedIt() {
   let longAgo = new Date(); 
   longAgo.setDate(longAgo.getDate() - 999); 
   cards[currentCard]['lastCorrectDate'] = longAgo; 
+  
+  // Set exit prompt to save if not yet saved
+  window.addEventListener('beforeunload', ExitWarningToSave); 
+  
+  
   runFlashcard(); 
 }
 

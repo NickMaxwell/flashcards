@@ -3,7 +3,7 @@
 <html>
 <head>
   <meta charset='utf-8'/>
-  <title>Learning System</title>
+  <title>Flashcards</title>
   
 <!-- CSS -------------------->
   <style>
@@ -15,50 +15,11 @@
     }
   </style>
 
-<!--------------- Create Globally Held Data -------------------------->
-
-  <script> 
-    'use strict'; 
-  
-    // systemLog is a global array that holds data on what happens and when
-    let systemLog = []; 
-    
-	  let timeStarted = new Date(); 
-    systemLog.push(['Open flashcards', timeStarted]); 
-    
-    // for estimating average time per card 
-    let cardsGuessed = 0; 
-    
-    // Global array that will be used to display cards
-    let displayList = [false]; 
-  
-    // createCardMode records mode of card creation step
-    // 'Create' = user clicked on "Create Cards".  
-    // 'Revise' = user clicked on "Fix Card" while running flashcards
-    let createCardMode = 'Create'; 
-  
-    // Which card is durrently being displayed
-    let currentCard = -1; 
-    
-  </script>
-
+  <script type='text/javascript' src='setup.js'></script>
   <script type='text/javascript' src='flashcard_data.js'></script>
   <script type='text/javascript' src='tidy_cards.js'></script>
-
-  <script>
-    'use strict'; 
-    
-    /** @return {number} */
-    // for displaying time in flashcards
-    function minutesElapsed() {  
-      // Minutes elapsed since starting to work on the flashcards.  
-      // This function needs to exist before import the rest of the modules.
-      const timeNow = new Date(); 
-      const hoursSoFar = timeNow.getHours() - timeStarted.getHours(); 
-      return timeNow.getMinutes() - timeStarted.getMinutes() + hoursSoFar*60; 
-    }
-  </script>
-
+  <script type='text/javascript' src='progress_function.js'></script>
+  
   
   <!--------------- Modules ------------------------------------------>
 
@@ -76,9 +37,10 @@
 
 <body>
 
+
 <span id='mainSpan'>
 
-<!-- control bar -->
+<!-- control bar on left side -->
   <input type='button' 
       id='createFlashcardsButton' 
       value='Create Flashcards' 
@@ -89,13 +51,13 @@
       onclick='runFlashcard()'/>
   <input type='button' value='Save' onclick='saveData()'/>
 
-  
 <!-- Module window -->
   <div id='moduleWindow'></div>
   
 </span>
 
 
+<!-- progress display on right side -->
 <span id='timeDisplays'>
   Started
   <div id='startTime'></div>
@@ -107,60 +69,7 @@
   <div id='estimatedStopTime'></div>
 </span>
 
+<script type='text/javascript' src='final_setup.js'></script>
 
-<script>
-'use strict'; 
-// Initial time info 
-
-function prettyPrintTime(timeToShow) {
-
-  let hours = timeToShow.getHours(); 
-  let ampm = 'am'
-  if (hours > 12) {
-    hours -= 12; 
-    ampm = 'pm'; 
-  } else if (hours === 0) {
-    hours = 12; 
-  }
-
-  // Left pad with zeroes as needed
-  let minToGo = '0' + timeToShow.getMinutes(); 
-  minToGo = minToGo.slice(minToGo.length - 2, 3); 
-  
-  return '<strong>' + hours + ':' + minToGo + ampm + '</strong><p>'; 
-}
-
-document.getElementById('startTime').innerHTML = prettyPrintTime(timeStarted); 
-
-
-function showTimeSoFar() {
-  const elapsedTimeLabel = document.getElementById('elapsedTime')
-  elapsedTimeLabel.innerHTML =  
-      '<strong>' + minutesElapsed() + ' minutes</strong><p>'; 
-}
-
-showTimeSoFar(); 
-
-function estimateRemainingTime() {
-  // quick and dirty estimate
-  const cardsToGo = countTrue(displayList); 
-  const minutesSoFar = minutesElapsed(); 
-  const minutesToGo = cardsToGo*((0.01 + minutesSoFar)/cardsGuessed); 
-  
-  const remainingTimeLabel = document.getElementById('estimatedRemainingTime')
-  remainingTimeLabel.innerHTML = 
-      '<strong>' + Math.round(minutesToGo) + ' minutes</strong><p>'; 
-      
-  let timeEnd = new Date(); 
-  timeEnd.setMinutes( timeEnd.getMinutes() + minutesToGo ); 
-  
-  const stopTimeLabel = document.getElementById('estimatedStopTime')
-  stopTimeLabel.innerHTML = 
-      '<strong>' + prettyPrintTime(timeEnd) + '</strong><p>';
-}
-
-estimateRemainingTime(); 
-    
-</script>
 </body>
 </html>
